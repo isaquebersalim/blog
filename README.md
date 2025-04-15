@@ -15,6 +15,7 @@ Explique rapidamente o motivo do post. Ex: "Precisei configurar o Docker no Wind
 
 Descreva o passo a passo, código, comandos, decisões, etc.
 
+-_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_--_\|/_-
 <h1>Título do Post</h1>
   <div class="meta">
     📅 <strong>Data:</strong> 15/04/2025<br />
